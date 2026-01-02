@@ -235,5 +235,3 @@ Obrigado a todos que contribuíram com sugestões e melhorias!
 
 [![GitHub stars](https://img.shields.io/github/stars/seu-usuario/guia-linkedin?style=social)](https://github.com/seu-usuario/guia-linkedin/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/seu-usuario/guia-linkedin?style=social)](https://github.com/seu-usuario/guia-linkedin/network/members)
-
-[⬆️ Voltar ao topo](#-guia-completo-do-linkedin-transforme-seu-perfil-sem-pagar-nada)
