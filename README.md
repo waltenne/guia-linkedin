@@ -6,8 +6,8 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Curso Gratuito](https://img.shields.io/badge/Curso-Gratuito-success?style=for-the-badge)
 ![Contribuições Bem-Vindas](https://img.shields.io/badge/Contribuições-Bem_Vindas-orange?style=for-the-badge)
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/guia-linkedin?style=social)](https://github.com/seu-usuario/guia-linkedin/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/seu-usuario/guia-linkedin?style=social)](https://github.com/seu-usuario/guia-linkedin/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/waltenne/guia-linkedin?style=social)](https://github.com/waltenne/guia-linkedin/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/waltenne/guia-linkedin?style=social)](https://github.com/waltenne/guia-linkedin/network/members)
 
 
 ### Um guia prático, honesto e 100% gratuito para otimizar seu perfil profissional no LinkedIn
