@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 Guia Completo do LinkedIn
 ## Transforme seu Perfil sem Pagar Nada
 
