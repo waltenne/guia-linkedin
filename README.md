@@ -3,11 +3,12 @@
 # 🚀 Guia Completo do LinkedIn
 ## Transforme seu Perfil sem Pagar Nada
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Curso Gratuito](https://img.shields.io/badge/Curso-Gratuito-success?style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Curriculo](https://img.shields.io/badge/curriculo-0077B5?style=for-the-badge&logo=curriculo&logoColor=white)
+![Gratuito](https://img.shields.io/badge/Gratuito-success?style=for-the-badge)
 ![Contribuições Bem-Vindas](https://img.shields.io/badge/Contribuições-Bem_Vindas-orange?style=for-the-badge)
-[![GitHub stars](https://img.shields.io/github/stars/waltenne/guia-linkedin?style=social)](https://github.com/waltenne/guia-linkedin/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/waltenne/guia-linkedin?style=social)](https://github.com/waltenne/guia-linkedin/network/members)
+
+
+[![GitHub stars](https://img.shields.io/github/stars/waltenne/guia-linkedin?style=social)](https://github.com/waltenne/guia-linkedin/stargazers) [![GitHub forks](https://img.shields.io/github/forks/waltenne/guia-linkedin?style=social)](https://github.com/waltenne/guia-linkedin/network/members)
 
 
 ### Um guia prático, honesto e 100% gratuito para otimizar seu perfil profissional no LinkedIn
@@ -15,16 +16,11 @@
 **Cansou de pagar caro por "segredos" que você pode fazer de graça?**  
 Este repositório reúne tudo que você precisa para se destacar no LinkedIn — sem gastar um centavo.
 
-<div align="center" style="margin-top: 20px;">
-  
 [📖 Começar Agora](./INICIO-RAPIDO.md) 
 • [📚 Índice Completo](./INDEX.md) 
 • [📎 Template de Currículo ATS](./recursos/Template%20Curriculo.doc)
 • [🤝 Como Contribuir](#-como-contribuir)
 
-</div>
-
-</div>
 
 ---
 
