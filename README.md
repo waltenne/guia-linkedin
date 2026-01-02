@@ -224,17 +224,16 @@ Obrigado a todos que contribuíram com sugestões e melhorias!
 
 ---
 
-<div align="center">
 
 **✨ Feito com ❤️ para ajudar profissionais a crescerem ✨**
 
 **Se este guia te ajudou, considere:**
-⭐ Dar uma estrela neste repositório 🔄 Compartilhar com amigos e colegas
-💬 Deixar seu feedback 🤝 Contribuir com melhorias
+- ⭐ Dar uma estrela neste repositório
+- 🔄 Compartilhar com amigos e colegas
+- 💬 Deixar seu feedback
+- 🤝 Contribuir com melhorias
 
 [![GitHub stars](https://img.shields.io/github/stars/seu-usuario/guia-linkedin?style=social)](https://github.com/seu-usuario/guia-linkedin/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/seu-usuario/guia-linkedin?style=social)](https://github.com/seu-usuario/guia-linkedin/network/members)
 
 [⬆️ Voltar ao topo](#-guia-completo-do-linkedin-transforme-seu-perfil-sem-pagar-nada)
-
-</div>
